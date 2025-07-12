@@ -1,0 +1,18 @@
+D/EGL_emulation( 4764): app_time_stats: avg=513.08ms min=0.59ms max=7501.46ms count=15
+I/flutter ( 4764): Airpay Response: {STATUSMSG: Error fetching token: DioException [unknown]: null
+I/flutter ( 4764): Error: HandshakeException: Handshake error in client (OS Error: 
+I/flutter ( 4764): 	CERTIFICATE_VERIFY_FAILED: unable to get local issuer certificate(handshake.cc:295)), TRANSACTIONSTATUS: e.toString(), STATUS: null, TXN_MODE: null, TXN_DATE_TIME: null, TXN_CURRENCY_CODE: null, TRANSACTIONID: null, TRANSACTIONAMT: null, MERCHANTTRANSACTIONID: null, MERCHANTKEY: null, AP_SECUREHASH: null, CHMOD: null, FULLNAME: null, EMAIL: null, CONTACTNO: null, ISRISK: null, BANKNAME: null, MERCHANT_NAME: null, SURCHARGE: null, BILLEDAMOUNT: null, RRN: null, SUBSCRIPTION_ID: null, TRANSACTIONREASON: null}
+I/flutter ( 4764): Error fetching token: DioException [unknown]: null
+I/flutter ( 4764): Error: HandshakeException: Handshake error in client (OS Error: 
+I/flutter ( 4764): 	CERTIFICATE_VERIFY_FAILED: unable to get local issuer certificate(handshake.cc:295))
+D/KARTHIK ( 4764): showToast: null null null null
+E/Toast   ( 4764): setGravity() shouldn't be called on text toasts, the values won't be used
+D/EGL_emulation( 4764): app_time_stats: avg=64.86ms min=1.20ms max=625.17ms count=16
+D/EGL_emulation( 4764): app_time_stats: avg=42.57ms min=0.73ms max=903.29ms count=25
+D/EGL_emulation( 4764): app_time_stats: avg=32.55ms min=7.35ms max=673.01ms count=41
+D/EGL_emulation( 4764): app_time_stats: avg=64.87ms min=0.42ms max=1106.19ms count=18
+D/EGL_emulation( 4764): app_time_stats: avg=49.08ms min=0.47ms max=921.03ms count=22
+I/flutter ( 4764): Airpay Response: {STATUSMSG: Error fetching token: Invalid argument(s): Invalid or corrupted pad block, TRANSACTIONSTATUS: e.toString(), STATUS: null, TXN_MODE: null, TXN_DATE_TIME: null, TXN_CURRENCY_CODE: null, TRANSACTIONID: null, TRANSACTIONAMT: null, MERCHANTTRANSACTIONID: null, MERCHANTKEY: null, AP_SECUREHASH: null, CHMOD: null, FULLNAME: null, EMAIL: null, CONTACTNO: null, ISRISK: null, BANKNAME: null, MERCHANT_NAME: null, SURCHARGE: null, BILLEDAMOUNT: null, RRN: null, SUBSCRIPTION_ID: null, TRANSACTIONREASON: null}
+I/flutter ( 4764): Error fetching token: Invalid argument(s): Invalid or corrupted pad block
+D/KARTHIK ( 4764): showToast: null null null null
+E/Toast   ( 4764): setGravity() shouldn't be called on text toasts, the values won't be used
